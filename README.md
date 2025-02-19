@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native error: `TypeError: Cannot read properties of undefined (reading 'property')`. The `bug.js` file shows how this error occurs when accessing a property of an undefined object.  The `bugSolution.js` file provides solutions to prevent this error using optional chaining and nullish coalescing.
