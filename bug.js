@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of an object that is null or undefined.  This commonly happens when dealing with asynchronous operations where the data might not be available immediately.  For example, fetching data from an API might return `null` before the data is loaded.
